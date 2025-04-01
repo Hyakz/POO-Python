@@ -1,1 +1,1 @@
-from Heranca.cliente import Cliente
+# Esse arquivo foi usado apenas para testes e etc, alguns dos códigos foram movidos para o exercicios.py

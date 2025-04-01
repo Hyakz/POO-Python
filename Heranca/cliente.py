@@ -1,4 +1,5 @@
-class Cliente:
-    def __init__(self, nome, idade):
-        self.nome = nome
-        self.idade = idade
+from Heranca.pessoa import Pessoa
+
+class Cliente(Pessoa):
+    def comprar(self):
+        print(f'{self.nome_classe} está comprando')
